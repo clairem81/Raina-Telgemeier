@@ -1,0 +1,106 @@
+body {
+  background-image: url("https://i.pinimg.com/originals/8e/13/cc/8e13ccff126d7f141e9190d6bfd57db0.jpg");
+}
+
+
+.page {
+	display: flex;
+    justify-content: center;
+}
+
+.profile {
+    width: 155px;
+    height: 130px;
+    border-radius: 50%;
+    border: 3px solid purple;
+    padding: 4px;
+    background-color: #ccfff2;
+}
+
+.about{
+	margin: 15px;
+    background: #d9b3ff;
+    padding: 5px;
+    font-family: 'Andika New Basic', sans-serif;
+    border: 4px double purple;
+}
+	
+.name{
+    justify-content: center;
+    display: flex;
+    font-size: 22px;
+    font-family: 'Andika New Basic', sans-serif;
+    color: purple;
+}
+
+.images{
+	display: flex;
+    justify-content: center;
+    padding: 16px;
+    background-color: #ccfff2;
+}
+
+.pic{
+	width: 200px;
+    margin: 8px;
+    border: 3px purple solid;
+    padding: 3px;
+    background-color:  #d9b3ff;
+}
+
+.one{
+	width: 250px;
+}
+
+.images2{
+	display: flex;
+    justify-content: center;
+    padding: 16px;
+    background-color: #ccfff2;
+}
+
+.pics2{
+	width: 200px;
+    margin: 8px;
+    height:210px;
+    border: 3px purple solid;
+    padding: 3px;
+    background-color:  #d9b3ff;
+}
+
+.two{
+	width: 250px;
+    background-color:  #f2e6ff;
+}
+
+h1{
+	color: #660066;
+    font-family: 'Andika New Basic', sans-serif;
+}
+
+.friends{
+    display: flex;
+    justify-content: flex-start;
+    border:  #4d79ff dotted 8px;
+    padding: 3px;
+}
+
+.dave{
+	border-radius: 20%;
+    height: 80px;
+    border: #ccfff2 dotted 5px;
+    padding: 3px;
+}
+
+.amara{
+	border-radius: 20%;
+    height: 80px;
+    border: #ccfff2 dotted 5px;
+    padding: 5px;
+}
+
+h3{
+	display: flex;
+    align-items: center;
+    font-family: 'Andika New Basic', sans-serif;
+}
